@@ -3,6 +3,8 @@
 Welcome to **AirHopper Team**, part of the **Independent Study Program** at **Binar Academy**! 🚀  
 We are a team of 8 individuals collaborating to develop a **web-based flight ticket booking application** as our final project.
 
+<img style="widt: 100%" src="./assets/flying.gif">
+
 ## 👥 Our Team
 
 Our team consists of **8 members**, divided into two main roles:
