@@ -3,7 +3,9 @@
 Welcome to **AirHopper Team**, part of the **Independent Study Program** at **Binar Academy**! 🚀  
 We are a team of 8 individuals collaborating to develop a **web-based flight ticket booking application** as our final project.
 
-<img style="widt: 100%" src="./assets/flying.gif">
+<div align="center">
+    <img src="./assets/flying.gif" width="500px">
+</div>
 
 ## 👥 Our Team
 
@@ -53,6 +55,7 @@ We welcome contributions and suggestions! Here’s how you can contribute:
 
 ---
 
+<!--
 ## 💬 Contact Us
 
 If you have any questions or collaboration ideas, feel free to reach out:
@@ -60,6 +63,6 @@ If you have any questions or collaboration ideas, feel free to reach out:
 - **Email**: support@binar-flight-team.com
 - **GitHub Issues**: Use the [Issues](https://github.com/AirHopper/BackEnd/issues) feature in this repository.
 
----
+--- -->
 
 Thank you for visiting our organization! We hope this project provides value to all users. 😊
